@@ -1,0 +1,14 @@
+- string.join(sequence)
+    join string to the end of element of the sequence and return the new string
+
+- print(f"xxx:{result to show:,}")
+    print the res which is xxx:result
+        
+- Counter(sequence)
+    class Counter, like dict, which can calculater the number of element in sequence
+    and after that, i can call for k,v in counter.items() to get what i want
+    
+- assert 
+    assert condition,
+    the same as if not condition: raise AssertError.
+    assert condition [, arguments]
